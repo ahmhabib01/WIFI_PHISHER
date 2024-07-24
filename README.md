@@ -1,9 +1,5 @@
 # WIFI_PHISHER
-<p align="center">
-<a href="https://github.com/ahmhabib01/WIFI_PHISHER/"><img title="Tool" src="https://img.shields.io/badge/WIFI_PHISHER"></a>
-<img title="Version" src="https://img.shields.io/badge/Version-1.0-green">
-<img title="Support" src="https://img.shields.io/badge/Support-No-red">
-</p>
+
 
 ## A franken baby of [M1z23R/ESP8266-EvilTwin](https://github.com/M1z23R/ESP8266-EvilTwin) and [adamff1/ESP8266-Captive-Portal](https://github.com/adamff1/ESP8266-Captive-Portal).
 
