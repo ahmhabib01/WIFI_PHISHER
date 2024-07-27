@@ -17,6 +17,9 @@ The source code given in this public repo is for educational use only and should
 Please check the legal regulations in your country before using it.
 
 ## Install using Arduino IDE
+
+<img src="https://github.com/ahmhabib01/WIFI_PHISHER/blob/main/Readme/readme.jpg"></img><br>
+
 1. Install Arduino IDE
 2. In Arduino go to `File` -> `Preferences` add this URL to `Additional Boards Manager URLs` ->
    `https://raw.githubusercontent.com/SpacehuhnTech/arduino/main/package_spacehuhn_index.json`  
